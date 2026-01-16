@@ -1,1 +1,1 @@
-web: gunicorn Bincom_app:app
+web: gunicorn app:app
